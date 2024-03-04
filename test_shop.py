@@ -36,7 +36,7 @@ class TestProducts:
             product.buy(1001)
 
 
-class TestCart():
+class TestCart:
     """
     TODO Напишите тесты на методы класса Cart
         На каждый метод у вас должен получиться отдельный тест
